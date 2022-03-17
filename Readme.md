@@ -2,8 +2,8 @@
 
 Experimenting with perlin noise in p5.js
 
-https://en.wikipedia.org/wiki/Perlin_noise
-https://rtouti.github.io/graphics/perlin-noise-algorithm
+> https://en.wikipedia.org/wiki/Perlin_noise <br/>
+> https://rtouti.github.io/graphics/perlin-noise-algorithm
 
 
 
